@@ -1,5 +1,5 @@
 # Opal::Rollbar
-TODO: Write Description
+Adds Client-Side Rollbar functionality in Opal
 
 ## Installation
 
