@@ -19,7 +19,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use Rollbar just as you would on server-side Ruby.
+
+Ex.
+```ruby
+Rollbar.error('This is an error')
+Rollbar.warning('This is a warning')
+```
+etc.
 
 ## Development
 
