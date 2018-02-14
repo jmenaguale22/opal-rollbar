@@ -5,12 +5,12 @@ require "opal/rollbar/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "opal-rollbar"
-  spec.version       = Opal::Rollbar::VERSION
+  spec.version       = OpalRollbar::VERSION
   spec.authors       = ["jmenaguale22"]
-  spec.email         = ["jmena1@u.brockport.edu"]
+  spec.email         = ["jasonm@catprint.com"]
 
   spec.summary       = %q{Allows for Opal client-side Rollbar}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/jmenaguale22/opal-rollbar"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
