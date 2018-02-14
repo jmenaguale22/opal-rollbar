@@ -1,7 +1,8 @@
 
-lib = File.expand_path("../lib", __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "opal_rollbar/version"
+# lib = File.expand_path("../lib", __FILE__)
+# $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+$:.push File.expand_path('../lib/', __FILE__)
+require "opal-rollbar/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "opal-rollbar"
