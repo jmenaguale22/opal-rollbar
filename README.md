@@ -19,6 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
+Use this link to add javascript Rollbar functionality https://rollbar.com/docs/notifier/rollbar.js/
+
 Use Rollbar just as you would on server-side Ruby.
 
 Ex.
