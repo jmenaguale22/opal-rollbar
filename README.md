@@ -19,10 +19,10 @@ Or install it yourself as:
 
 ## Usage
 
-Use this link to add javascript Rollbar functionality https://rollbar.com/docs/notifier/rollbar.js/
-Make sure to use your post_client_item access token from Rollbar for the accessToken in the above link.
-
-Use Rollbar just as you would on server-side Ruby.
+1. Use this link to add javascript Rollbar functionality https://rollbar.com/docs/notifier/rollbar.js/
+2. Make sure to use your post_client_item access token from Rollbar for the accessToken in the above link.
+3. require 'opal-rollbar' in your javascript application file
+4. Use Rollbar just as you would on server-side Ruby.
 
 Ex.
 ```ruby
