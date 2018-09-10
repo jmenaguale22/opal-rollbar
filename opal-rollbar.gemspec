@@ -6,7 +6,7 @@ require "opal-rollbar/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "opal-rollbar"
-  spec.version       = '1.0'
+  spec.version       = '1.1'
   spec.authors       = ["jmenaguale22"]
   spec.email         = ["jasonm@catprint.com"]
 
